@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+}
+
+fieldset{
+    margin: 5px 30px;
+
+}
+
+legend{
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.onay input{
+    margin: 5px;
+}
+
+.kıs-label{
+    display: inline-block;
+    margin: 10px;
+    width: 120px;
+}
+
+h3{
+    margin-left: 50px;
+}
+
+.sektör, .input-right {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.sektör{
+    width: 200px;
+}
+
+textarea{
+    margin: 10px;
+    text-align: justify;
+    resize: none;
+
+}
+
+.foot{
+    margin: 10px;
+
+}
+
+legend
